@@ -1,14 +1,14 @@
 ﻿{
-    "styles.css":  "styles.css?v=20260701-11",
-    "admin.js":  "admin.js?v=20260701-11",
-    "app.js":  "app.js?v=20260701-11",
-    "auth-confirm.js":  "auth-confirm.js?v=20260701-11",
-    "auth-ui.js":  "auth-ui.js?v=20260701-11",
-    "auth.js":  "auth.js?v=20260701-11",
-    "marketplace.js":  "marketplace.js?v=20260701-11",
-    "payment-success.js":  "payment-success.js?v=20260701-11",
-    "seo.js":  "seo.js?v=20260701-11",
-    "supabase-config.js":  "supabase-config.js?v=20260701-11",
-    "data-layer.js":  "data-layer.js?v=20260701-11",
-    "payment-failure.js":  "payment-failure.js?v=20260701-11"
+    "styles.css":  "styles.824abeda42.min.css",
+    "admin.js":  "admin.4c17e6e99b.min.js",
+    "app.js":  "app.bff065264a.min.js",
+    "auth-confirm.js":  "auth-confirm.ff3cefaaeb.min.js",
+    "auth-ui.js":  "auth-ui.97d9f844f1.min.js",
+    "auth.js":  "auth.6c4e58557f.min.js",
+    "marketplace.js":  "marketplace.d4e5f4b63b.min.js",
+    "payment-success.js":  "payment-success.be2c512074.min.js",
+    "seo.js":  "seo.81eee7e0a0.min.js",
+    "supabase-config.js":  "supabase-config.0506529877.min.js",
+    "data-layer.js":  "data-layer.eea196383a.min.js",
+    "payment-failure.js":  "payment-failure.fab67c8f7c.min.js"
 }
