@@ -1,11 +1,11 @@
 ﻿{
-    "styles.css":  "styles.824abeda42.min.css",
+    "styles.css":  "styles.e5990c61a8.css",
     "admin.js":  "admin.4c17e6e99b.min.js",
     "app.js":  "app.bff065264a.min.js",
     "auth-confirm.js":  "auth-confirm.ff3cefaaeb.min.js",
     "auth-ui.js":  "auth-ui.97d9f844f1.min.js",
     "auth.js":  "auth.6c4e58557f.min.js",
-    "marketplace.js":  "marketplace.d4e5f4b63b.min.js",
+    "marketplace.js":  "marketplace.f54c1cb114.js",
     "payment-success.js":  "payment-success.be2c512074.min.js",
     "seo.js":  "seo.81eee7e0a0.min.js",
     "supabase-config.js":  "supabase-config.0506529877.min.js",
